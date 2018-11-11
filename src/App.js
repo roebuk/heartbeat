@@ -16,9 +16,7 @@ const initialState = {
 const Beating = ({ beats }) =>
   <Fragment>
     <img className="heart-img" alt="heart" src={heart} />
-    <span className="heart-text">
-      {beats}
-    </span>
+    <span className="heart-text">{beats}</span>
   </Fragment>
 
 
