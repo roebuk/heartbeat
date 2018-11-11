@@ -2,7 +2,7 @@
 
 A not very complete entry for Lincoln Hack 2018.
 
-To see a demo [checkout the lincoln-hack-2018.mp4 file](lincoln-hack-2018.mp4)
+[![](http://img.youtube.com/vi/6n66Pdwxph0/0.jpg)](http://www.youtube.com/watch?v=6n66Pdwxph0 "Lincoln Hack 2018 Entry")
 
 To get the app up and running locally, clone the repo
 and run the following commands:
